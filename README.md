@@ -141,7 +141,7 @@ public class UserController : Controller
  ## Senaryo 2: Günlük Görev
 Bu senaryoda, her gün belirli bir saatte çalışan bir görevin oluşturulması işlemi gerçekleştirilmektedir.
  1) Program.cs dosyasına aşağıdaki kodu ekleyin:
-  ```chasrp
+  ```csharp
   using Hangfire;
 
 // ...
@@ -162,7 +162,7 @@ Bu senaryoda, bir işin tamamlandıktan belirli bir süre sonra çalışan bir g
   
   1) UserController.cs dosyasındaki Register metoduna aşağıdaki kodu ekleyin:
 
-  ```chasrp
+  ```csharp
   using Hangfire;
 
 // ...
@@ -186,7 +186,7 @@ public IActionResult Register(string email)
 ##  Senaryo 4: Kuyruğa Görev Ekleme
 Bu senaryoda, bir kuyruğa görevin eklenmesi işlemi gerçekleştirilmektedir.
   1) UserController.cs dosyasındaki Register metoduna aşağıdaki kodu ekleyin:
-```chasrp
+```csharp
 using Hangfire;
 
 // ...
