@@ -3,14 +3,14 @@
 Bu dokümantasyon, Hangfire'ı kullanarak basit arka plan işlerinin nasıl oluşturulduğunu anlatmaktadır.
 
 İçindekiler  
-1.Hangfire Nedir  
-2.Hangfire Kurulumu  
-3.Arka Plan İşleri Senaryoları    
+1. Hangfire Nedir  
+2. Hangfire Kurulumu  
+3. Arka Plan İşleri Senaryoları    
     -Senaryo 1: Planlanmış Gorev   
     -Senaryo 2: Günlük Görev    
     -Senaryo 3: İş Tamamlandıktan Sonra Görev    
     -Senaryo 4: Kuyruğa Görev Ekleme    
-4.Sonuç  
+4. Sonuç  
 
 
 ## Hangfire Nedir
