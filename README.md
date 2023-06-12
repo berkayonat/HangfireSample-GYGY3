@@ -206,3 +206,7 @@ public IActionResult Register(string email)
   
  ## Sonuç
 Bu dokümantasyon, Hangfire'ı kullanarak basit bir arka plan işleri uygulamasının nasıl oluşturulduğunu anlatmaktadır. Senaryoları takip ederek Hangfire'ın farklı işlemleri nasıl gerçekleştirebildiğini görebilirsiniz. 
+    
+ ## Dashboard Ekran Görüntüsü
+    
+    ![Dashboard](https://github.com/berkayonat/HangfireSample-GYGY3/blob/master/ss.png)
