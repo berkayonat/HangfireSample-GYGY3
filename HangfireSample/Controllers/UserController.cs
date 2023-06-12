@@ -22,7 +22,7 @@ namespace HangfireSample.Controllers
             var delay = TimeSpan.FromHours(1);
             BackgroundJob.Schedule(() => _welcomeEmailService.SendWelcomeEmail(email), delay);
 
-            //// Her gün saat 8:00'de çalışacak bir görev
+            
             //RecurringJob.AddOrUpdate(() => Console.WriteLine("Her saat başı çalışan görev"), Cron.Hourly);
 
             //// Bir işin tamamlanmasından belirli bir süre sonra çalışacak bir görev
