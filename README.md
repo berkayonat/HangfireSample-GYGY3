@@ -209,4 +209,4 @@ Bu dokümantasyon, Hangfire'ı kullanarak basit bir arka plan işleri uygulamas�
     
  ## Dashboard Ekran Görüntüsü
     
-    ![Dashboard](https://github.com/berkayonat/HangfireSample-GYGY3/blob/master/ss.png)
+![](https://github.com/berkayonat/HangfireSample-GYGY3/blob/master/ss.png)
